@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     color: black;
-    overflow-x: clip;
+    overflow-x: hidden;
       font-family: "Poppins", sans-serif;
       
 
