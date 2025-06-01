@@ -3,15 +3,9 @@
     margin: 0;
     box-sizing: border-box;
     color: black;
-    overflow-x: hidden;
+    overflow-x: clip;
       font-family: "Poppins", sans-serif;
       
-
-}
-body{
-    width:100vh;
-    height:100vw;
-    padding-right:100px;
 
 }
 .logo span{
