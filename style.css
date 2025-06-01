@@ -8,6 +8,8 @@
       
 
 }
+body{
+    width:100vh;}
 .logo span{
     font-size: 64px;
     font-weight: 700;
